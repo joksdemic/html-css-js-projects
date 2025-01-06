@@ -464,12 +464,13 @@ body{
 }
 .footer_linkovi2{
     flex-basis: 100%;
+    padding-right: 75px;
 }
 .svi_linkovi2{
     display: flex;
     justify-content: space-between;
     padding-left: 1cm;
-    padding-right: 22.5cm; 
+    padding-right: 20.5cm; 
     border-bottom: solid #262626;
     border-left: solid #262626;
     border-right: solid #262626;
@@ -937,6 +938,7 @@ body{
 .upz input{
     width: 300px;
     margin: 0;
+    height: 25px;
 }
 
 .mapa{
