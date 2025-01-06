@@ -1,1 +1,1 @@
-# html-css-projects
+Recreating http://www.balkanmagazin.net/
